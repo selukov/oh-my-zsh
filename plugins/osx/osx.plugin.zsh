@@ -178,6 +178,8 @@ function itunes() {
 			fi
 			return 0
 			;;
+=======
+>>>>>>> selukov/master
 		shuf|shuff|shuffle)
 			# The shuffle property of current playlist can't be changed in iTunes 12,
 			# so this workaround uses AppleScript to simulate user input instead.
